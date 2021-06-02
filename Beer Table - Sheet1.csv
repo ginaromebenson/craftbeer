@@ -1,0 +1,78 @@
+BeerID,BeerName,BrewerID,BreweryID,OrganizationID,Ingredients,BeerType,ABV,IBU,Container,Price,RelatedBeer,BrewersNotes,Availability
+1,Pub Beer,21,21,1,"water, hops, grains, yeast",American-Style India Pale Lager,0.05,,12oz Can,$3.99,,,Permanent
+2,Devil's Cup,20,20,,"water, hops, grains, yeast",American-Style Pale Ale,0.066,,12oz Can,$3.99,,,Limited Run
+3,Rise of the Phoenix,20,20,,"water, hops, grains, yeast",American-Style India Pale Ale,0.071,,12oz Can,$3.99,,,Permanent
+4,Sinister,20,20,,"water, hops, grains, yeast",American Double / Imperial IPA,0.09,,12oz Can,$4.99,,,Limited Run
+5,Sex and Candy,20,20,,"water, hops, grains, yeast",American-Style India Pale Ale,0.075,,12oz Can,$3.99,,,Permanent
+6,Black Exodus,20,20,,"water, hops, grains, yeast",Oatmeal Stout,0.077,,12oz Can,$4.99,,,Limited Run
+7,Lake Street Express,20,20,,"water, hops, grains, yeast",American-Style Pale Ale,0.045,,12oz Can,$3.99,,,Permanent
+8,Foreman,20,20,,"water, hops, grains, yeast",Brown Porter,0.065,,12oz Can,$3.99,,,Permanent
+9,Jade,20,20,,"water, hops, grains, yeast",American-Style Pale Ale,0.055,,12oz Can,$3.99,,,Permanent
+10,Cone Crusher,20,20,,"water, hops, grains, yeast",American-Style Imperial or Double India Pale Ale,0.086,,12oz Can,$3.99,,,Permanent
+11,Sophomoric Saison,20,20,,"water, hops, grains, yeast",Specialty Saison,0.072,,12oz Can,$4.29,,,Limited Run
+12,Regional Ring Of Fire,20,20,,"water, hops, grains, yeast",Specialty Saison,0.073,,12oz Can,$4.29,,,Limited Run
+13,Garce SelÃ©,20,20,,"water, hops, grains, yeast",Specialty Saison,0.069,,12oz Can,$4.29,,,Limited Run
+14,Troll Destroyer,20,20,,"water, hops, grains, yeast",Belgian-Style Strong Blonde Ale,0.085,,12oz Can,$3.99,,,Permanent
+15,Bitter Bitch,20,20,,"water, hops, grains, yeast",American-Style Pale Ale,0.061,60,12oz Can,$3.99,,,Permanent
+16,He Said Baltic-Style Porter,18,18,,"water, hops, grains, yeast",Baltic Porter,0.082,,12oz Can,$4.99,,,Limited Run
+17,He Said Belgian-Style Tripel,18,18,,"water, hops, grains, yeast",Belgian-Style Tripel,0.082,,12oz Can,$4.99,,,Limited Run
+18,Lower De Boom,18,18,,"water, hops, grains, yeast",American-Style Barley Wine Ale,0.099,92,8oz Can,$5.99,,,Permanent
+19,Fireside Chat,18,18,,"water, hops, grains, yeast",Herb and Spice Beer,0.079,45,12oz Can,$4.99,,,Seasonal
+20,Marooned On Hog Island,18,18,,"water, hops, grains, yeast",American-Style Stout,0.079,,12oz Can,$4.99,,,Permanent
+21,Bitter American,18,18,,"water, hops, grains, yeast",American-Style Pale Ale,0.044,42,12oz Can,$3.99,,,Permanent
+22,Hell or High Watermelon Wheat (2009),18,18,1,"water, hops, grains, yeast",Fruit Wheat Beer,0.049,17,12oz Can,$3.99,36,,Annual
+23,Hell or High Watermelon Wheat (2009),18,18,1,"water, hops, grains, yeast",Fruit Wheat Beer,0.049,17,16oz Can,$4.99,36,,Annual
+24,21st Amendment Watermelon Wheat Beer (2006),18,18,1,"water, hops, grains, yeast",Fruit Wheat Beer,0.049,17,12oz Can,$3.99,36,,Annual
+25,21st Amendment IPA (2006),18,18,1,"water, hops, grains, yeast",American-Style India Pale Ale,0.07,70,12oz Can,$3.99,,,Annual
+26,Brew Free! or Die IPA (2008),18,18,1,"water, hops, grains, yeast",American-Style India Pale Ale,0.07,70,12oz Can,$3.99,,,Annual
+27,Brew Free! or Die IPA (2009),18,18,1,"water, hops, grains, yeast",American-Style India Pale Ale,0.07,70,12oz Can,$3.99,26,,Annual
+28,Special Edition: Allies Win The War!,18,18,4,"water, hops, grains, yeast",Strong Ale,0.085,52,12oz Can,$3.99,,,Annual
+29,Hop Crisis,18,18,,"water, hops, grains, yeast",American-Style Imperial or Double India Pale Ale,0.097,94,12oz Can,$4.99,,,Permanent
+30,Bitter American (2011),18,18,,"water, hops, grains, yeast",American-Style Pale Ale,0.044,42,12oz Can,$3.99,21,,Annual
+31,Fireside Chat (2010),18,18,,"water, hops, grains, yeast",Herb and Spice Beer,0.079,45,12oz Can,$3.99,,,Annual
+32,Back in Black,18,18,,"water, hops, grains, yeast",American-Style Black Ale,0.068,65,12oz Can,$3.99,,,Permanent
+34,Monk's Blood,18,18,,"water, hops, grains, yeast",Belgian-Style Strong Dark Ale,0.083,35,12oz Can,$4.99,,,Permanent
+35,Brew Free! or Die IPA,18,18,,"water, hops, grains, yeast",American-Style India Pale Ale,0.07,65,12oz Can,$3.99,,,Permanent
+36,Hell or High Watermelon Wheat,18,18,1,"water, hops, grains, yeast",Fruit Wheat Beer,0.049,17,12oz Can,$3.99,,,Seasonal
+37,Bimini Twist,17,17,,"water, hops, grains, yeast",American-Style India Pale Ale,0.07,82,12oz Can,$3.99,,,Limited Run
+38,Beach Blonde,17,17,,"water, hops, grains, yeast",Golden or Blonde Ale,0.05,,12oz Can,$3.99,,,Permanent
+39,Rod Bender Red,17,17,,"water, hops, grains, yeast",American-Style Amber/Red Ale,0.059,,12oz Can,$3.99,,,Permanent
+40,Passion Fruit Prussia,16,16,,"water, hops, grains, yeast",Berliner-Style Weisse,0.035,11,12oz Can,$3.99,,,Seasonal
+41,Send Help,16,16,,"water, hops, grains, yeast",Golden or Blonde Ale,0.045,18,12oz Can,$3.99,,,Permanent
+42,Cast Iron Oatmeal Brown,16,16,,"water, hops, grains, yeast",American-Style Brown Ale,0.055,,12oz Can,$3.99,,,Permanent
+43,Reprise Centennial Red,16,16,,"water, hops, grains, yeast",American-Style Amber/Red Ale,0.06,,12oz Can,$3.99,,,Permanent
+44,Alter Ego,16,16,,"water, hops, grains, yeast",American-Style Black Ale,0.055,,12oz Can,$3.99,,,Permanent
+45,Divided Sky,16,16,,"water, hops, grains, yeast",American-Style India Pale Ale,0.065,,12oz Can,$3.99,,,Permanent
+46,Resurrected,16,16,,"water, hops, grains, yeast",American-Style India Pale Ale,0.065,,12oz Can,$3.99,,,Permanent
+47,Contact High,16,16,,"water, hops, grains, yeast",American-Style Wheat Beer,0.05,28,12oz Can,$3.99,,,Permanent
+48,Galaxyfest,15,15,,"water, hops, grains, yeast",American-Style India Pale Ale,0.065,,16oz Can,$4.79,,,Permanent
+49,Citrafest,15,15,,"water, hops, grains, yeast",American-Style India Pale Ale,0.05,45,16oz Can,$4.79,,,Permanent
+50,Barn Yeti,15,15,,"water, hops, grains, yeast",Belgian-Style Strong Dark Ale,0.09,,16oz Can,$4.79,,,Permanent
+51,Scarecrow,15,15,,"water, hops, grains, yeast",American-Style India Pale Ale,0.069,65,16oz Can,$4.79,,,Seasonal
+52,Ironman,15,15,,"water, hops, grains, yeast",Strong Ale,0.09,50,16oz Can,$4.79,,,Permanent
+53,Honey Kolsch,15,15,,"water, hops, grains, yeast",German-Style Koelsch,0.046,15,16oz Can,$4.79,,,Limited Run
+54,Copperhead Amber,15,15,,"water, hops, grains, yeast",Belgian-Style Strong Dark Ale,0.052,18,16oz Can,$4.79,,,Permanent
+55,Rude Parrot IPA,14,14,,"water, hops, grains, yeast",American-Style India Pale Ale,0.059,75,16oz Can,$4.79,,,Permanent
+56,British Pale Ale (2010),14,14,,"water, hops, grains, yeast",English-Style Pale Mild Ale,0.054,30,16oz Can,$4.79,57,,Annual
+57,British Pale Ale,14,14,,"water, hops, grains, yeast",English-Style Pale Mild Ale,0.054,30,16oz Can,$4.79,,,Permanent
+58,Ballz Deep Double IPA,14,14,,"water, hops, grains, yeast",American-Style Imperial or Double India Pale Ale,0.084,82,16oz Can,$4.79,,,Permanent
+59,Wolfman's Berliner,13,13,,"water, hops, grains, yeast",American-Style Imperial or Double India Pale Ale,0.038,,12oz Can,$3.99,,,Permanent
+60,Colorado Native,12,12,,"water, hops, grains, yeast",American-Style Amber Lager,0.055,26,12oz Can,$3.99,,,Permanent
+61,Colorado Native (2011),12,12,,"water, hops, grains, yeast",American-Style Amber Lager,0.055,26,12oz Can,$3.99,60,,Annual
+62,Jockamo IPA,11,11,1,"water, hops, grains, yeast",American-Style India Pale Ale,0.065,52,12oz Can,$3.99,,,Permanent
+63,Purple Haze,11,11,1,"water, hops, grains, yeast",Fruit Wheat Beer,0.042,13,12oz Can,$3.99,,,Permanent
+64,Abita Amber,11,11,1,"water, hops, grains, yeast",American-Style Amber Lager,0.045,17,12oz Can,$3.99,,,Permanent
+65,Citra Ass Down,2,2,,"water, hops, grains, yeast",American-Style India Pale Ale,0.082,68,16oz Can,$4.79,,,Permanent
+66,The Brown Note,2,2,,"water, hops, grains, yeast",American-Style Brown Ale,0.05,20,16oz Can,$4.79,,,Permanent
+67,Citra Ass Down,11,11,,"water, hops, grains, yeast",American-Style Imperial or Double India Pale Ale,0.08,68,16oz Can,$4.79,65,,Permanent
+68,London Balling,11,11,,"water, hops, grains, yeast",British-Style Barley Wine Ale,0.125,80,16oz Can,$5.99,,,Permanent
+69,35 K,11,11,,"water, hops, grains, yeast",Sweet Stout or Cream Stout,0.077,25,16oz Can,$4.79,,,Permanent
+70,A Beer,11,11,,"water, hops, grains, yeast",American-Style Pale Ale,0.042,42,16oz Can,$4.79,,,Permanent
+71,Rules are Rules,11,11,,"water, hops, grains, yeast",German-Style Pilsener,0.05,25,16oz Can,$4.79,,,Permanent
+72,Flesh Gourd'n,11,11,,"water, hops, grains, yeast",Pumpkin Spice Beer,0.066,21,16oz Can,$4.79,,,Seasonal
+73,Sho'nuff,11,11,,"water, hops, grains, yeast",Belgian-Style Blonde Ale,0.04,13,16oz Can,$4.79,,,Permanent
+74,Bloody Show,11,11,,"water, hops, grains, yeast",Contemporary American-Style Pilsener,0.055,17,16oz Can,$4.79,,,Seasonal
+75,Rico Sauvin,11,11,,"water, hops, grains, yeast",American-Style Imperial or Double India Pale Ale,0.076,68,16oz Can,$4.79,,,Permanent
+76,Coq de la Marche,11,11,,"water, hops, grains, yeast",Specialty Saison,0.051,38,16oz Can,$4.79,,,Limited Run
+77,Kamen Knuddeln,11,11,,"water, hops, grains, yeast",Wild Beer,0.065,,16oz Can,$4.79,,,Permanent
+78,Pile of Face,11,11,,"water, hops, grains, yeast",American-Style India Pale Ale,0.06,65,16oz Can,$4.79,,,Permanent
